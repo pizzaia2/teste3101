@@ -1,5 +1,5 @@
 export default defineConfig(({ mode }) => ({
-  base: '/teste3101/',  // Adicione esta linha para especificar a base do GitHub Pages
+  base: '/teste3101/',  // Adicionando a base correta para o GitHub Pages
   server: {
     host: "::",
     port: 8080,
