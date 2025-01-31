@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "/nome-do-repositorio/", // Adicione o nome do repositório aqui
+  base: "/teste3101/", // Adicione o nome do repositório aqui
   plugins: [
     react(),
     mode === 'development' && componentTagger(),
